@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": ".\\.venv\\Scripts\\python.exe",
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "files.eol": "\n",
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}

@@ -1,0 +1,15 @@
+[package]
+name = "omni.isaac.lab_quadruped_tasks"
+title = "Isaac Lab Quadruped Tasks"
+version = "0.1.0"
+category = "Simulation"
+description = "Quadruped robot configs and locomotion tasks for Isaac Lab"
+readme = "README.md"
+lifecycle = "experimental"
+
+[dependencies]
+"omni.isaac.core" = {}
+"omni.isaac.lab" = {}
+
+[[python.module]]
+name = "omni.isaac.lab_quadruped_tasks"
